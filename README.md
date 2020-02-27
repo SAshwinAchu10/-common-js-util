@@ -18,7 +18,6 @@ import { RestService } from '@common-js/util';
 
 ##### Usage
 
-#### Mongoose
 ```javascript
 RestService.post(`url`, { body }, { headers }).then((response: any) => response).catch((error: any) => error)
 ```
