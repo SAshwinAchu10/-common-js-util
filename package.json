@@ -1,7 +1,7 @@
 {
   "name": "@common-js/util",
   "description": "Common utility functions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "Rest Service",
     "Common Utils"
