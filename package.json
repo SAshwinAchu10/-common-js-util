@@ -20,7 +20,7 @@
   "main": "dist/index",
   "typings": "dist/index",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^1.4.0"
   },
   "engines": {
     "node": "*"
